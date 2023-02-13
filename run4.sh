@@ -106,4 +106,3 @@ else
   echo -e "${GREEN}Array is not empty:${NC}"
   echo "Array empty"
 fi
-
